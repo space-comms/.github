@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/space-comms/profile/logo.png" alt="Space // Comms Logo" width="120"/>
-</p>
+
 
 # Space // Comms
 
